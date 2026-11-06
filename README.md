@@ -1,0 +1,1 @@
+# manual-testing-checklist.md
